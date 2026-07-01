@@ -39,20 +39,37 @@ A Java-based desktop application that helps manage student records, classroom in
 ## File Structure
 
 Smart_Campus_Management_System/
+
+│
+
 ├── student.java
+
 ├── studentManager.java
+
 ├── studentWindow.java
+
 ├── classroom.java
+
 ├── classroomManager.java
+
 ├── classroomWindow.java
+
 ├── resource.java
+
 ├── resourceManager.java
+
 ├── resourceWindow.java
+
 ├── mainWindow.java
+
 ├── SmartCampusApp.java
+
 ├── students.txt
+
 ├── classrooms.txt
-├── resources.txt
+
+└──  resources.txt
+
 
 ## Information
 
